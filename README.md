@@ -4,11 +4,12 @@
 
 Proyek ini dikerjakan oleh:
 
-1. Nama Anggota 1 (NIM)
-2. Nama Anggota 2 (NIM)
-3. Nama Anggota 3 (NIM)
-4. Nama Anggota 4 (NIM)
-
+1. Muhammad Iqbal 103102400020
+2. Fira Adelia Septa 103102430002
+3. Yoan Natasya Agustin Sebastian 103102430001
+4. Retno Eka Sari 103102400046
+5. Clairine Anargya 103102400031
+6. Izam Rosiawan 103102400049
 
 ## Deskripsi
 
