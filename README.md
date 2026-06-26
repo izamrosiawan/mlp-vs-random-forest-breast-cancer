@@ -109,6 +109,8 @@ Berdasarkan hasil penelitian, **Multilayer Perceptron (MLP) tanpa SMOTE** menjad
 
 ## Referensi
 
-1. Dua, D., & Graff, C. (2019). *UCI Machine Learning Repository*. University of California, Irvine.
-2. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). *SMOTE: Synthetic Minority Over-sampling Technique*. Journal of Artificial Intelligence Research, 16, 321-357.
-3. Pedregosa, F., et al. (2011). *Scikit-learn: Machine Learning in Python*. Journal of Machine Learning Research, 12, 2825-2830.
+1. Dua, D., & Graff, C. (2019). UCI Machine Learning Repository. University of California, Irvine.
+2. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic Minority Over-sampling Technique. Journal of Artificial Intelligence Research, 16, 321-357.
+3. Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
+4. Arianda, G. R., Musayyanah, Aqvirandy, W., Farady, M. D., Cahya, M. N., & Hadiono, T. (2023). Deteksi Kanker Payudara Menggunakan Artificial Neural Network pada Deep Learning. INFOTECH: Jurnal Informatika & Teknologi, 4(2), 259-269.
+5. Kusuma, J., Hayadi, B. H., Wanayumini, & Rosnelly, R. (2022). Komparasi Metode Multi Layer Perceptron (MLP) dan Support Vector Machine (SVM) untuk Klasifikasi Kanker Payudara. MIND (Multimedia Artificial Intelligent Networking Database) Journal, 7(1), 51-60.
