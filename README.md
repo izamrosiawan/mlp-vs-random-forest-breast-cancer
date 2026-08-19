@@ -54,7 +54,24 @@ imbalanced-learn
 Install seluruh library:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+pip install -r requirements.txt
+```
+
+## Struktur Repositori
+
+```text
+mlp-vs-random-forest-breast-cancer/
+├── data/
+│   └── dataset_breast_cancer_wisconsin.xlsx   # Dataset Breast Cancer Wisconsin
+├── images/                                    # Grafik & hasil visualisasi
+│   ├── distribusi_kelas_tumor.png
+│   ├── heatmap_korelasi_fitur.png
+│   ├── confusion_matrix_mlp.png
+│   └── confusion_matrix_random_forest.png
+├── breastcancer.ipynb                         # Notebook eksperimen MLP vs Random Forest
+├── .gitignore                                 # Git ignore file
+├── README.md                                  # Dokumentasi proyek
+└── requirements.txt                           # Daftar dependensi Python
 ```
 
 ## Struktur Notebook
